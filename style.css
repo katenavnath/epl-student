@@ -94,6 +94,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+     background-image: url(image/myy.jpg);
 }
 .home .col{
     color: #fd8d37;
